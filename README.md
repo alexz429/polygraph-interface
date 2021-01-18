@@ -57,3 +57,5 @@ Several js files use require; in order for them to be incorporated into the exte
 1. `npm install browserify`
 2. `browserify FILE.js > bundled\FILE.js`
 3. use bundled version of the file in html.
+
+Find the backend [here](https://github.com/alexz429/polygraph)
